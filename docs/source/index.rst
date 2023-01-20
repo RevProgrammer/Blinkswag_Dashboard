@@ -1,7 +1,3 @@
-Zoho Books
-===============
-
-
 Welcome to Zoho Books Custom Function Documentation
 ====================================================
 
@@ -28,5 +24,4 @@ Contents
 
    Modules
    Estimate
-   SalesOrder
-   api
+   salesorder
