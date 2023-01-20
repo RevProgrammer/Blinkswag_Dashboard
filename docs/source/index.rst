@@ -28,4 +28,5 @@ Contents
 
    Modules
    Estimate
+   SalesOrder
    api
