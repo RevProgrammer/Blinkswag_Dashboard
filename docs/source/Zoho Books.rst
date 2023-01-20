@@ -1,3 +1,7 @@
+Zoho Books
+==========
+
+
 Welcome to Zoho Books Custom Function Documentation
 ====================================================
 
@@ -21,6 +25,6 @@ Contents
 
 .. toctree::
 
-   
+   Zoho Books
    Estimate
    api
