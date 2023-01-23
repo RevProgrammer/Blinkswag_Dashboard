@@ -16,11 +16,13 @@ Estimate
 Function: convert_estimate_to_so
 ---------------------------------
 
-:**Module**: Estimate
+.. list-table:: Title
+   :widths: 25 25 50
+   :header-rows: 1
 
-:**Function**: convert_estimate_to_so
-
-:**Workflow Rule**: Convert Estimate To SO
+*-Module : Estimate
+ -Function**: convert_estimate_to_so
+ -Workflow Rule: Convert Estimate To SO
 
 
 
