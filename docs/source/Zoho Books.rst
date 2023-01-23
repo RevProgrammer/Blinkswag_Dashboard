@@ -7,10 +7,6 @@ Zoho Books
 Estimate
 ----------
 
-
-.. autosummary::
-   :toctree: generated
-
 .. _installation:
 
  
