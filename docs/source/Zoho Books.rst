@@ -129,6 +129,34 @@ It makes it easy to see the progress of a project, as well as any updates or cha
 
 
 
+Function: update_so_data_on_zoho_project
+---------------------------------------------
+
+**Module**: Sales Order
+
+**Function**: cu_so_production_items
+
+**Workflow Rule**: Update Production Items by SO
+
+
+Description :This code is used to take a sales order in Zoho Books and create or update records in a custom module called "cm_production_control" using the information from the sales order. It starts by retrieving the organization ID, sales order ID, and other details such as the sales order number, status, and line items. Then it goes on to retrieve the date and custom field for the sales order user.
+
+For each line item in the sales order, it retrieves the name, quantity, ID, and SKU of the item and creates a data map with the item's information, including the sales order number, date, and user. It then searches for existing production items in the organization using the line item ID. If no existing items are found, it creates a new record for the item in the "cm_production_control" module with the data map and status of the sales order. If existing items are found, it updates the existing records with the data map.
+It automates the process of creating or updating records in "cm_production_control" module based on the sales order and saves time.
+
+
+* Retrieving the organization ID and sales order ID, as well as the sales order number, status, and line items.
+* Retrieving the date and custom field for the sales order user.
+* For each line item in the sales order:
+  * Retrieving the name, quantity, ID, and SKU of the item.
+  * Creating a data map with the item's information, including the sales order number, date, and user.
+  * Searching for existing production items in the organization using the line item ID.
+  * If no existing items are found, create a new record for the item in the "cm_production_control" module with the data map and status of the sales order.
+  * If existing items are found, update the existing records with the data map.
+
+
+
+
 
 
 
