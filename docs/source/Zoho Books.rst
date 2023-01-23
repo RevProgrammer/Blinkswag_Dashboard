@@ -1,5 +1,5 @@
 Zoho Books
-============
+==========
 
 .. _installation:
 
