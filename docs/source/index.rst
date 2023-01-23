@@ -22,5 +22,5 @@ Contents
 
 .. toctree::
 
-   Zoho Books
+   ZohoBooks
    api
