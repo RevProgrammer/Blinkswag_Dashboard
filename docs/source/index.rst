@@ -1,12 +1,15 @@
-Welcome to Lumache's documentation!
-===================================
+Welcome to Zoho Custom Function Documentation
+====================================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+**Zoho Books** is online accounting software that manages your finances, automates business workflows, and helps you work collectively across departments.
+Visit <https://www.zoho.com/books/>`_
 
-Check out the :doc:`usage` section for further information, including
+
+We use custom functions help in automation where procedural logic is required, which cannot be implemented with the default actions such as, Alerts/Tasks/WebHooks, etc. With custom functions you can automatically update the data in the related Books modules or third-party applications by executing simple program scripts.
+
+
+
+Check out the :doc:`Functions` section for further information, including
 how to :ref:`installation` the project.
 
 .. note::
@@ -15,6 +18,7 @@ how to :ref:`installation` the project.
 
 Contents
 --------
+
 
 .. toctree::
 
