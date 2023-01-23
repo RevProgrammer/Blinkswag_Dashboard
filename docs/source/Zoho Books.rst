@@ -129,7 +129,7 @@ It makes it easy to see the progress of a project, as well as any updates or cha
 
 
 
-Function: update_so_data_on_zoho_project
+Function:  cu_so_production_items
 ---------------------------------------------
 
 **Module**: Sales Order
