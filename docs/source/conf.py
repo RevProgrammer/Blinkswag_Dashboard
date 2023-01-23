@@ -2,7 +2,7 @@
 
 # -- Project information
 
-project = 'Zoho Books Custom Function Documention'
+project = 'Zoho Custom Function Documention'
 copyright = '2023 BlinkSwag'
 author = 'BlinkSwag'
 
