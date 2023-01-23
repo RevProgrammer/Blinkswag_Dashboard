@@ -17,7 +17,7 @@ Function: convert_estimate_to_so
 ---------------------------------
 
 :**Module**: Estimate
-:**Function**: convert_estimate_to_so
+:**Function**: Convert_estimate_to_so
 :**Workflow Rule**: Convert Estimate To SO
 
 
