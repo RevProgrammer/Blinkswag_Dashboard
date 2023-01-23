@@ -146,12 +146,19 @@ It automates the process of creating or updating records in "cm_production_contr
 
 
 * Retrieving the organization ID and sales order ID, as well as the sales order number, status, and line items.
+
 * Retrieving the date and custom field for the sales order user.
+
 * For each line item in the sales order:
+
   * Retrieving the name, quantity, ID, and SKU of the item.
+  
   * Creating a data map with the item's information, including the sales order number, date, and user.
+  
   * Searching for existing production items in the organization using the line item ID.
+  
   * If no existing items are found, create a new record for the item in the "cm_production_control" module with the data map and status of the sales order.
+  
   * If existing items are found, update the existing records with the data map.
 
 
