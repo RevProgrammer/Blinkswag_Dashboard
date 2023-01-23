@@ -58,9 +58,9 @@ Sales Order
 Function: update_so_data_on_zoho_project
 ---------------------------------------------
 
-**Module**: Sales Order
-**Function**: update_so_data_on_zoho_project
-**Workflow Rule**: Update SO Data on Zoho Project
+:**Module**: Sales Order
+:**Function**: update_so_data_on_zoho_project
+:**Workflow Rule**: Update SO Data on Zoho Project
 
 
 
@@ -130,9 +130,9 @@ It makes it easy to see the progress of a project, as well as any updates or cha
 Function:  cu_so_production_items
 ---------------------------------------------
 
-**Module**: Sales Order
-**Function**: cu_so_production_items
-**Workflow Rule**: Update Production Items by SO
+:**Module**: Sales Order
+:**Function**: cu_so_production_items
+:**Workflow Rule**: Update Production Items by SO
 
 
 Description :This code is used to take a sales order in Zoho Books and create or update records in a custom module called "cm_production_control" using the information from the sales order. It starts by retrieving the organization ID, sales order ID, and other details such as the sales order number, status, and line items. Then it goes on to retrieve the date and custom field for the sales order user.
