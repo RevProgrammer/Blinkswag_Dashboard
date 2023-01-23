@@ -30,9 +30,6 @@ Function: convert_estimate_to_so
      - Row 2, column 2
      - Row 2, column 3
 
-*-Module : Estimate
- -Function: convert_estimate_to_so
-*-Workflow Rule: Convert Estimate To SO
 
 
 
