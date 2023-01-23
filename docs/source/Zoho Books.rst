@@ -12,9 +12,8 @@ Estimate
 .. _installation:
 
  
-
-Function: convert_estimate_to_so
----------------------------------
+**Workflow Rule**: Convert Estimate To SO
+------------------------------------------
 
 :**Module**: Estimate
 :**Function**: Convert_estimate_to_so
@@ -55,8 +54,8 @@ Sales Order
    :toctree: generated
 
 
-Function: update_so_data_on_zoho_project
----------------------------------------------
+**Workflow Rule**: Update SO Data on Zoho Project
+--------------------------------------------------
 
 :**Module**: Sales Order
 :**Function**: update_so_data_on_zoho_project
@@ -127,7 +126,7 @@ It makes it easy to see the progress of a project, as well as any updates or cha
 
 
 
-Function:  cu_so_production_items
+**Workflow Rule** : Update Production Items by SO
 ---------------------------------------------
 
 :**Module**: Sales Order
