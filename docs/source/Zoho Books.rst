@@ -59,9 +59,7 @@ Function: update_so_data_on_zoho_project
 ---------------------------------------------
 
 **Module**: Sales Order
-
 **Function**: update_so_data_on_zoho_project
-
 **Workflow Rule**: Update SO Data on Zoho Project
 
 
@@ -133,9 +131,7 @@ Function:  cu_so_production_items
 ---------------------------------------------
 
 **Module**: Sales Order
-
 **Function**: cu_so_production_items
-
 **Workflow Rule**: Update Production Items by SO
 
 
