@@ -27,7 +27,7 @@ Description : This code is used to take information from an estimate in Zoho Boo
 
 It basically is a way to automate the process of converting an estimate to a sales order in Zoho Books, it eliminates the need for manual entry of data and saves time.
 
-* The script starts by getting the "estimate_id", "organization_id" and "customer_id" from the estimate object.
+:* The script starts by getting the "estimate_id", "organization_id" and "customer_id" from the estimate object.:
 
 * Then, it uses the "zoho.books.getRecordsByID" method to retrieve detailed information about the estimate using the organization ID and estimate ID. It stores this     detailed information in the "estimate_detailed" variable.
 
