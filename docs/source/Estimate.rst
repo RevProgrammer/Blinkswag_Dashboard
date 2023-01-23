@@ -6,6 +6,10 @@ Modules
 Estimate
 ===============
 
+
+.. autosummary::
+   :toctree: generated
+
 .. _installation:
 
  
